@@ -16,7 +16,7 @@
 ### Links
 
 - Solution URL: (https://github.com/FrancoUP/Main)
-- Live Site URL: ([https://francoup.com/](https://francoup.github.io/My-Profile/))
+- Live Site URL: (https://francoup.github.io/My-Profile/)
 
 ## My process
 
