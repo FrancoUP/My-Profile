@@ -367,14 +367,12 @@ message.addEventListener("click", function(e) {
 
 
 btnSend.addEventListener("click", function(e) {
-  e.preventDefault();
 
   checkField();
 });
 
 
 btnSend.addEventListener("touchstart", function(e){
-  e.preventDefault();
 
   btnSend.classList.add("btn-send-touch");
 
